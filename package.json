@@ -1,0 +1,15 @@
+{
+  "name": "navbar",
+  "version": "1.0.0",
+  "description": "Navigation bar project",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Jim Wood",
+  "license": "MIT",
+  "homepage": "https://S1nglemalt1973.github.io/navbar",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
